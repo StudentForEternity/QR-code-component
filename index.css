@@ -36,14 +36,14 @@ body {
   display: grid;
   width: 320px;
   background-color: hsl(0, 0%, 100%);
-  padding: 1.25em;
+  padding: 1em;
   border-radius: 15px;
   min-height: 475px;
 }
 
 .main-title,
 .main-text {
-  padding: 0.35em;
+  padding: 0.45em;
   text-align: center;
 }
 .main-title {
