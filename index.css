@@ -38,6 +38,7 @@ body {
   background-color: hsl(0, 0%, 100%);
   padding: 1.25em;
   border-radius: 15px;
+  min-height: 475px;
 }
 
 .main-title,
